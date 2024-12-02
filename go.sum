@@ -1,0 +1,4 @@
+github.com/stantowne/DeckMaker v0.0.0-20241202133943-065a6ec7f47b h1:KsNRBwvYN/E5bOx9WW+8rgVRdiVz1maivKls8Nq4KJc=
+github.com/stantowne/DeckMaker v0.0.0-20241202133943-065a6ec7f47b/go.mod h1:3VowEpGZDrSoDdlv1Ys4HUvt9zvCYlSH1CGfzyDDbSE=
+github.com/stantowne/badFunctions v0.0.0 h1:PfjGSRnH5HubOOT3HZL2cz30SpkHBt2V9N9bHPJC5Cg=
+github.com/stantowne/badFunctions v0.0.0/go.mod h1:JnPW3zaY4E48vPlV/5KvUf3zEw8Es7YlvBlJcbx3rmQ=
